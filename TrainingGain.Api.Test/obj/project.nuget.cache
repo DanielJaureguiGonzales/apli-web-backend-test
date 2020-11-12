@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ioILYA5oO7V2meM2lNEduwWSXo+PYKt2pvd7ZvqhQXTJ0d66EZAJ/2UutnEOZ/6dbFjVB5gH2pEWYyPgoCz4SA==",
+  "dgSpecHash": "zEteh8YlZabBVbaL6tKZ4Qfw4vpXDXqYJEv/XpG/4wMHZTiAMiVXDh0utzUkDHRI7E9Vcm3QsKFDQgYoC3GozQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend\\TrainingGain.Api.Test\\TrainingGain.Api.Test.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend-test\\TrainingGain.Api.Test\\TrainingGain.Api.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

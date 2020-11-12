@@ -8556,8 +8556,8 @@
     },
     "TrainingGain.Api/1.0.0": {
       "type": "project",
-      "path": "../TrainingGain.Api/TrainingGain.Api.csproj",
-      "msbuildProject": "../TrainingGain.Api/TrainingGain.Api.csproj"
+      "path": "../../apli-web-backend/TrainingGain.Api/TrainingGain.Api.csproj",
+      "msbuildProject": "../../apli-web-backend/TrainingGain.Api/TrainingGain.Api.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8580,11 +8580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend\\TrainingGain.Api.Test\\TrainingGain.Api.Test.csproj",
+      "projectUniqueName": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend-test\\TrainingGain.Api.Test\\TrainingGain.Api.Test.csproj",
       "projectName": "TrainingGain.Api.Test",
-      "projectPath": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend\\TrainingGain.Api.Test\\TrainingGain.Api.Test.csproj",
+      "projectPath": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend-test\\TrainingGain.Api.Test\\TrainingGain.Api.Test.csproj",
       "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend\\TrainingGain.Api.Test\\obj\\",
+      "outputPath": "C:\\Users\\barra\\Documents\\Training_Gain\\apli-web-backend-test\\TrainingGain.Api.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",
