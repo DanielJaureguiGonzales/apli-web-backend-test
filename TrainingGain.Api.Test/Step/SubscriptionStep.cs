@@ -51,7 +51,7 @@ namespace TrainingGain.Api.Test.Step
         public bool have = false;
 
 
-        public async void Create()
+        public async void CreateDB()
         {
             await userRepository.AddAsync(user);
             await customerRepository.AddAsync(customer);
@@ -93,9 +93,9 @@ namespace TrainingGain.Api.Test.Step
 
 
         [Given(@"the user wants to see all the subscriptions")]
-        public async void GivenTheUserWantsToSee()
+        public async void GivenTheUserWantsToSeeAllTheSubscriptions()
         {
-            Create();
+            CreateDB();
 
         }
 
